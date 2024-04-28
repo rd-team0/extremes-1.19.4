@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "extremes",
+	"version": "${version}",
+	"name": "Extremes",
+	"description": "Our first fabric mod for minecraft about everything that we can imagine",
+
+	"authors": [
+		"RD team developers"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/extremes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.rdteam.extremes.Extremes"
+		],
+		"client": [
+			"net.rdteam.extremes.ExtremesClient"
+		],
+		"fabric-datagen": [
+			"net.rdteam.extremes.ExtremesDataGenerator"
+		]
+	},
+	"mixins": [
+		"extremes.mixins.json",
+		{
+			"config": "extremes.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.10",
+		"minecraft": "~1.19.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
