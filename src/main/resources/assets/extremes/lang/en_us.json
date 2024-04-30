@@ -1,4 +1,8 @@
 {
   "item.extremes.doritos": "Doritos",
-  "itemgroup.extremes": "Extremes mod"
+
+  "itemgroup.extremes_food": "Extremes Foods",
+  "itemgroup.extremes_block": "Extremes Blocks",
+
+  "block.extremes.arcane_tile": "Arcane tile"
 }
