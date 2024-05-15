@@ -1,6 +1,8 @@
 {
   "replace": false,
   "value": [
-    "extremes:arcane_tile"
+    "extremes:arcane_tile",
+    "extremes:demiurg_sandstone",
+    "extremes:demiurg_sandbricks"
   ]
 }

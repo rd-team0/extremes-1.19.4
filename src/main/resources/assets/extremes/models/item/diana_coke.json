@@ -1,0 +1,6 @@
+{
+  "parent": "potion/generated",
+  "textures": {
+    "layer0": "extremes:potion/diana_coke"
+  }
+}

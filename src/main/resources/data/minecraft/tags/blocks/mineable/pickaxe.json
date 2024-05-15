@@ -1,6 +1,11 @@
 {
   "replace": false,
   "value": [
-    "extremes:arcane_tile"
+    "extremes:arcane_tile",
+    "extremes:arcane_border",
+    "extremes:border_brain",
+    "extremes:demiurg_sandstone",
+    "extremes:demiurg_sandbricks",
+    "extremes:demiurg_stone"
   ]
 }

@@ -1,6 +1,20 @@
 {
   "item.extremes.doritos": "Доритос",
 
+  "item.minecraft.potion.effect.diana_coke": "Кока-кола с кофе",
+  "item.minecraft.splash_potion.effect.diana_coke": "Кока-кола с кофе",
+  "item.minecraft.lingering_potion.effect.diana_coke": "Розбита кока-кола с кофе",
+
   "itemgroup.extremes_food": "Еда Екстрима",
-  "itemgroup.extremes_block": "Блоки Екстрима"
+  "itemgroup.extremes_block": "Блоки Екстрима",
+
+  "effect.extremes.exp_status_effect": "Ростущий Уровень",
+
+  "block.extremes.arcane_tile": "Магическая клетка",
+  "block.extremes.arcane_border": "Магический барьер",
+  "block.extremes.border_brain": "Мозг барьера",
+  "block.extremes.demiurg_sand": "Песок Демиурга",
+  "block.extremes.demiurg_sandstone": "Песчаник демиурга",
+  "block.extremes.demiurg_sandbricks": "Кирпич из песка Демиурга",
+  "block.extremes.demiurg_stone": "Камень Демиурга"
 }

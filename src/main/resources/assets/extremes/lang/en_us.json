@@ -1,8 +1,20 @@
 {
   "item.extremes.doritos": "Doritos",
 
+  "item.minecraft.potion.effect.diana_coke": "Coca Coffee",
+  "item.minecraft.splash_potion.effect.diana_coke": "Coca Coffee",
+  "item.minecraft.lingering_potion.effect.diana_coke": "Coca Coffee",
+
   "itemgroup.extremes_food": "Extremes Foods",
   "itemgroup.extremes_block": "Extremes Blocks",
 
-  "block.extremes.arcane_tile": "Arcane tile"
+  "effect.extremes.exp_status_effect": "Level Grow",
+
+  "block.extremes.arcane_tile": "Arcane tile",
+  "block.extremes.arcane_border": "Arcane border",
+  "block.extremes.border_brain": "Border brain",
+  "block.extremes.demiurg_sand": "Demiurg sand",
+  "block.extremes.demiurg_sandstone": "Demiurg sandstone",
+  "block.extremes.demiurg_sandbricks": "Demiurg sandbricks",
+  "block.extremes.demiurg_stone": "Demiurg stone"
 }
